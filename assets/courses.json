@@ -1,0 +1,309 @@
+{
+    "courses": [
+            {
+                    "id": "tech001",
+                    "title": "Advanced Cloud Computing",
+                    "category": "Technology",
+                    "subCategory": "Cloud",
+                    "description": "Master advanced concepts in cloud computing, including serverless architecture and multi-cloud strategies",
+                    "detailedDescription": "This comprehensive course covers serverless architecture, multi-cloud strategies, and advanced cloud computing concepts. Gain hands-on experience with cloud platforms and optimize resources for efficiency and scalability.",
+                    "duration": "25 hours",
+                    "level": "Advanced",
+                    "prerequisites": ["Basic Cloud Computing", "Networking Basics"],
+                    "skills": ["Cloud Architecture", "Serverless Computing", "Multi-Cloud Deployment"],
+                    "image": "assets/images/Cloud.jpeg",
+                    "rating": 4.8,
+                    "enrollmentCount": 1100,
+                    "provider": {
+                      "name": "TechMaster Academy",
+                      "rating": 4.9,
+                      "coursesOffered": 150,
+                      "website": "https://techmasteracademy.com"
+                    },
+                    "location": {
+                      "type": "Hybrid",
+                      "online": true,
+                      "physical": "Main Campus - Building A, Room 302",
+                      "address": "123 Tech Street, Silicon Valley, CA"
+                    },
+                    "schedule": {
+                      "startDate": "2024-02-01",
+                      "endDate": "2024-03-15",
+                      "sessions": [
+                        {
+                          "day": "Tuesday",
+                          "time": "18:00-20:00",
+                          "type": "Lecture"
+                        },
+                        {
+                          "day": "Thursday",
+                          "time": "18:00-20:00",
+                          "type": "Practice"
+                        }
+                      ]
+                    },
+                    "pricing": {
+                      "amount": 699.99,
+                      "currency": "USD",
+                      "installmentAvailable": true,
+                      "installmentTerms": "3 months"
+                    },
+                    "certification": {
+                      "provided": true,
+                      "type": "Professional Certificate",
+                      "accredited": true,
+                      "validityPeriod": "3 years"
+                    },
+                    "courseContent": [
+                      {
+                        "module": "Module 1: Serverless Architecture",
+                        "duration": "8 hours",
+                        "topics": [
+                          "Introduction to Serverless",
+                          "Serverless Frameworks",
+                          "Use Cases"
+                        ]
+                      },
+                      {
+                        "module": "Module 2: Multi-Cloud Strategies",
+                        "duration": "8 hours",
+                        "topics": [
+                          "Cloud Interoperability",
+                          "Vendor Solutions",
+                          "Cost Optimization"
+                        ]
+                      }
+                    ],
+                    "tags": ["technology", "cloud", "serverless", "architecture"],
+                    "languages": ["English"],
+                    "materials": {
+                      "provided": true,
+                      "items": [
+                        "Digital textbook",
+                        "Case studies",
+                        "Practice exercises",
+                        "Video lectures"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "tech002",
+                    "title": "Cybersecurity Fundamentals",
+                    "category": "Technology",
+                    "subCategory": "Security",
+                    "description": "Learn the basics of cybersecurity, including threat analysis and protection methods",
+                    "detailedDescription": "This beginner-friendly course introduces foundational cybersecurity concepts. Topics include threat analysis, risk management, and essential tools for protecting data in digital environments.",
+                    "duration": "20 hours",
+                    "level": "Beginner",
+                    "prerequisites": [],
+                    "skills": ["Threat Analysis", "Network Security", "Data Protection"],
+                    "image": "assets/images/Cyper.jpeg",
+                    "rating": 4.7,
+                    "enrollmentCount": 1500,
+                    "provider": {
+                      "name": "TechMaster Academy",
+                      "rating": 4.9,
+                      "coursesOffered": 150,
+                      "website": "https://techmasteracademy.com"
+                    },
+                    "location": {
+                      "type": "Online",
+                      "online": true,
+                      "physical": null,
+                      "address": null
+                    },
+                    "schedule": {
+                      "startDate": "2024-01-15",
+                      "endDate": "2024-02-20",
+                      "sessions": [
+                        {
+                          "day": "Wednesday",
+                          "time": "17:00-19:00",
+                          "type": "Lecture"
+                        }
+                      ]
+                    },
+                    "pricing": {
+                      "amount": 499.99,
+                      "currency": "USD",
+                      "installmentAvailable": false,
+                      "installmentTerms": null
+                    },
+                    "certification": {
+                      "provided": true,
+                      "type": "Completion Certificate",
+                      "accredited": false,
+                      "validityPeriod": null
+                    },
+                    "courseContent": [
+                      {
+                        "module": "Module 1: Cybersecurity Essentials",
+                        "duration": "10 hours",
+                        "topics": [
+                          "Types of Threats",
+                          "Risk Management",
+                          "Security Protocols"
+                        ]
+                      }
+                    ],
+                    "tags": ["technology", "security", "cybersecurity", "protection"],
+                    "languages": ["English", "Spanish"],
+                    "materials": {
+                      "provided": true,
+                      "items": [
+                        "Presentation slides",
+                        "Case studies",
+                        "Practice exercises"
+                      ]
+                    }
+                  },
+
+          {
+            "id": "soft001",
+            "title": "Effective Communication Skills",
+            "category": "Soft Skills",
+            "subCategory": "Communication",
+            "description": "Enhance your interpersonal and professional communication abilities.",
+            "detailedDescription": "This course focuses on improving verbal and non-verbal communication. Topics include conflict resolution, active listening, and business communication strategies. Ideal for professionals looking to advance in their careers.",
+            "duration": "15 hours",
+            "level": "Beginner",
+            "prerequisites": [],
+            "skills": ["Active Listening", "Conflict Resolution", "Professional Communication"],
+            "image": "assets/images/comskills.jpeg",
+            "rating": 4.5,
+            "enrollmentCount": 2200,
+            "provider": {
+              "name": "SoftSkill Academy",
+              "rating": 4.6,
+              "coursesOffered": 50,
+              "website": "https://softskillacademy.com"
+            },
+            "location": {
+              "type": "Online",
+              "online": true,
+              "physical": null,
+              "address": null
+            },
+            "schedule": {
+              "startDate": "2024-01-10",
+              "endDate": "2024-02-05",
+              "sessions": [
+                {
+                  "day": "Wednesday",
+                  "time": "18:00-20:00",
+                  "type": "Interactive Workshop"
+                },
+                {
+                  "day": "Friday",
+                  "time": "16:00-18:00",
+                  "type": "Lecture"
+                }
+              ]
+            },
+            "pricing": {
+              "amount": 249.99,
+              "currency": "USD",
+              "installmentAvailable": false,
+              "installmentTerms": null
+            },
+            "certification": {
+              "provided": true,
+              "type": "Completion Certificate",
+              "accredited": false,
+              "validityPeriod": null
+            },
+            "courseContent": [
+              {
+                "module": "Module 1: Basics of Communication",
+                "duration": "8 hours",
+                "topics": ["Principles of Communication", "Active Listening", "Non-Verbal Cues"]
+              },
+              {
+                "module": "Module 2: Business Communication",
+                "duration": "7 hours",
+                "topics": ["Email Writing", "Presentation Skills", "Conflict Management"]
+              }
+            ],
+            "tags": ["soft skills", "communication", "professional development"],
+            "languages": ["English", "French"],
+            "materials": {
+              "provided": true,
+              "items": ["Presentation slides", "Case studies", "Practice exercises"]
+            }
+          },
+          {
+            "id": "soft002",
+            "title": "Leadership and Team Management",
+            "category": "Soft Skills",
+            "subCategory": "Leadership",
+            "description": "Develop the skills to lead teams effectively and drive organizational success.",
+            "detailedDescription": "This advanced course covers essential leadership skills such as strategic planning, motivation, and performance management. Perfect for current and aspiring leaders seeking to refine their managerial abilities.",
+            "duration": "20 hours",
+            "level": "Advanced",
+            "prerequisites": ["Effective Communication Skills"],
+            "skills": ["Strategic Planning", "Motivation", "Performance Management"],
+            "image": "assets/images/leader.jpeg",
+            "rating": 4.8,
+            "enrollmentCount": 1800,
+            "provider": {
+              "name": "Leadership Academy",
+              "rating": 4.9,
+              "coursesOffered": 70,
+              "website": "https://leadershipacademy.com"
+            },
+            "location": {
+              "type": "Hybrid",
+              "online": true,
+              "physical": "Corporate Hub - Room 205",
+              "address": "101 Leadership Lane, Business City, NY"
+            },
+            "schedule": {
+              "startDate": "2024-02-15",
+              "endDate": "2024-03-25",
+              "sessions": [
+                {
+                  "day": "Tuesday",
+                  "time": "17:00-19:00",
+                  "type": "Lecture"
+                },
+                {
+                  "day": "Thursday",
+                  "time": "17:00-19:00",
+                  "type": "Group Activity"
+                }
+              ]
+            },
+            "pricing": {
+              "amount": 399.99,
+              "currency": "USD",
+              "installmentAvailable": true,
+              "installmentTerms": "3 months"
+            },
+            "certification": {
+              "provided": true,
+              "type": "Professional Certificate",
+              "accredited": true,
+              "validityPeriod": "5 years"
+            },
+            "courseContent": [
+              {
+                "module": "Module 1: Fundamentals of Leadership",
+                "duration": "10 hours",
+                "topics": ["Leadership Styles", "Emotional Intelligence", "Decision Making"]
+              },
+              {
+                "module": "Module 2: Advanced Team Management",
+                "duration": "10 hours",
+                "topics": ["Motivational Strategies", "Conflict Resolution", "Performance Evaluation"]
+              }
+            ],
+            "tags": ["soft skills", "leadership", "team management"],
+            "languages": ["English", "Spanish"],
+            "materials": {
+              "provided": true,
+              "items": ["Case studies", "Interactive tools", "Reading material"]
+            }
+          }
+        ]
+
+}

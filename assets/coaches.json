@@ -1,0 +1,399 @@
+{
+  "coaches": [
+    {
+      "id": "coach001",
+      "name": "Dr. Sarah Chen",
+      "title": "Tech Leadership Coach",
+      "category": "Technology",
+      "subCategory": "Leadership",
+      "description": "Empowering tech leaders to build and scale high-performing teams",
+      "detailedDescription": "Former CTO turned leadership coach with 15+ years of experience in scaling engineering teams. Expert in helping technical leaders develop their management skills and build effective teams.",
+      "image": "assets/images/coach1.jpeg",
+      "rating": 4.9,
+      "clientCount": 234,
+      "yearsExperience": 15,
+      "expertise": [
+        "Engineering Management",
+        "Team Scaling",
+        "Technical Leadership",
+        "Career Development"
+      ],
+      "languages": ["English", "Mandarin"],
+      "credentials": [
+        "Ph.D. in Computer Science, Stanford University",
+        "Certified Executive Coach (ICF)",
+        "Former CTO at TechGrowth Inc."
+      ],
+      "location": {
+        "type": "Hybrid",
+        "online": true,
+        "physical": "Silicon Valley Office",
+        "address": "123 Tech Street, San Francisco, CA"
+      },
+      "availability": {
+        "timeZone": "PST",
+        "weekdays": ["Monday", "Wednesday", "Thursday"],
+        "timeSlots": ["09:00-10:00", "10:00-11:00", "14:00-15:00", "15:00-16:00"]
+      },
+      "sessionTypes": [
+        {
+          "type": "1:1 Coaching",
+          "duration": "60 min",
+          "price": 199.99,
+          "currency": "USD",
+          "description": "Personal coaching session focused on your specific challenges and goals"
+        },
+        {
+          "type": "Strategy Session",
+          "duration": "90 min",
+          "price": 299.99,
+          "currency": "USD",
+          "description": "Deep dive into specific challenges with actionable strategy planning"
+        }
+      ],
+      "packages": [
+        {
+          "name": "Leadership Transition",
+          "duration": "3 months",
+          "sessionsPerMonth": 4,
+          "price": 1799.99,
+          "currency": "USD",
+          "description": "Comprehensive support for new engineering leaders",
+          "includes": [
+            "Weekly 1:1 sessions",
+            "Email support",
+            "Leadership assessment",
+            "Custom action plan",
+            "Progress tracking"
+          ]
+        }
+      ],
+      "testimonials": [
+        {
+          "client": "Michael R.",
+          "role": "Engineering Director",
+          "company": "TechCorp",
+          "text": "Dr. Chen helped me transition from senior engineer to engineering director smoothly. Her insights were invaluable.",
+          "rating": 5
+        }
+      ],
+      "tags": ["leadership", "engineering", "management", "technology"]
+    },
+  {
+ "id": "coach002",
+ "name": "Marcus Thompson",
+ "title": "Product Innovation Coach",
+ "category": "Product",
+ "subCategory": "Innovation",
+ "description": "Guiding product leaders to create game-changing solutions",
+ "detailedDescription": "Former Head of Product at leading tech companies with expertise in product strategy and innovation. Specializes in helping teams develop user-centric products and drive market growth.",
+ "image": "assets/images/coach2.jpeg",
+ "rating": 4.8,
+ "clientCount": 178,
+ "yearsExperience": 12,
+ "expertise": [
+ "Product Strategy",
+ "Innovation",
+ "User Experience",
+ "Go-to-Market Planning"
+ ],
+ "languages": ["English", "Spanish"],
+ "credentials": [
+ "MBA, Harvard Business School",
+ "Certified Product Manager (AIPMM)",
+ "Former VP Product at InnovateNow"
+ ],
+ "location": {
+ "type": "Remote",
+ "online": true,
+ "physical": null,
+ "address": null
+ },
+ "availability": {
+ "timeZone": "EST",
+ "weekdays": ["Tuesday", "Thursday", "Friday"],
+ "timeSlots": ["08:00-09:00", "11:00-12:00", "13:00-14:00"]
+ },
+ "sessionTypes": [
+ {
+ "type": "Product Strategy",
+ "duration": "60 min",
+ "price": 189.99,
+ "currency": "USD",
+ "description": "Strategic session focused on product vision and roadmap"
+ },
+ {
+ "type": "Innovation Workshop",
+ "duration": "120 min",
+ "price": 349.99,
+ "currency": "USD",
+ "description": "Interactive workshop for product teams to spark innovation"
+ }
+ ],
+ "packages": [
+ {
+ "name": "Product Launch Accelerator",
+ "duration": "2 months",
+ "sessionsPerMonth": 6,
+ "price": 1599.99,
+ "currency": "USD",
+ "description": "Intensive coaching for product launches",
+ "includes": [
+ "Bi-weekly strategy sessions",
+ "Launch plan review",
+ "Market analysis",
+ "Risk assessment",
+ "Stakeholder management"
+ ]
+ }
+ ],
+ "testimonials": [
+ {
+ "client": "Lisa K.",
+ "role": "Product Director",
+ "company": "SaaSTech",
+ "text": "Marcus transformed our product development process. His insights led to a successful product launch.",
+ "rating": 5
+ }
+ ],
+ "tags": ["product", "innovation", "strategy", "leadership"]
+ },
+ {
+ "id": "coach003",
+ "name": "Dr. Rebecca Martinez",
+ "title": "Data Science Leadership Coach",
+ "category": "Analytics",
+ "subCategory": "Data Leadership",
+ "description": "Building exceptional data science teams and leaders",
+ "detailedDescription": "Distinguished data scientist and leader with expertise in building and scaling data science teams. Focuses on developing technical leadership and data-driven decision making.",
+ "image": "assets/images/coach3.jpeg",
+ "rating": 4.9,
+ "clientCount": 156,
+ "yearsExperience": 10,
+ "expertise": [
+ "Data Strategy",
+ "ML Team Leadership",
+ "Analytics Operations",
+ "Technical Mentoring"
+ ],
+ "languages": ["English", "Portuguese"],
+ "credentials": [
+ "Ph.D. in Statistics, MIT",
+ "Former Head of Data Science at DataCorp",
+ "AWS Machine Learning Certification"
+ ],
+ "location": {
+ "type": "Hybrid",
+ "online": true,
+ "physical": "Boston Office",
+ "address": "456 Data Drive, Boston, MA"
+ },
+ "availability": {
+ "timeZone": "EST",
+ "weekdays": ["Monday", "Tuesday", "Friday"],
+ "timeSlots": ["10:00-11:00", "13:00-14:00", "16:00-17:00"]
+ },
+ "sessionTypes": [
+ {
+ "type": "Data Leadership",
+ "duration": "60 min",
+ "price": 209.99,
+ "currency": "USD",
+ "description": "Focused coaching on data team leadership and strategy"
+ },
+ {
+ "type": "Technical Review",
+ "duration": "90 min",
+ "price": 289.99,
+ "currency": "USD",
+ "description": "Deep dive into technical challenges and architecture"
+ }
+ ],
+ "packages": [
+ {
+ "name": "Data Science Leadership",
+ "duration": "4 months",
+ "sessionsPerMonth": 4,
+ "price": 1899.99,
+ "currency": "USD",
+ "description": "Comprehensive program for data science leaders",
+ "includes": [
+ "Monthly strategy sessions",
+ "Team assessment",
+ "Technical roadmap planning",
+ "Leadership development",
+ "Project review"
+ ]
+ }
+ ],
+ "testimonials": [
+ {
+ "client": "David H.",
+ "role": "Data Science Manager",
+ "company": "AnalyticsPro",
+ "text": "Dr. Martinez helped me transition from senior data scientist to leading a team of 15.",
+ "rating": 4.9
+ }
+ ],
+ "tags": ["data science", "analytics", "leadership", "machine learning"]
+ },
+ {
+ "id": "coach004",
+ "name": "James Wilson",
+ "title": "Agile Transformation Coach",
+ "category": "Methodology",
+ "subCategory": "Agile",
+ "description": "Transforming organizations through agile methodologies",
+ "detailedDescription": "Seasoned agile coach with experience in enterprise-wide transformations. Expert in scaling agile practices and building high-performing teams.",
+ "image": "assets/images/coach4.jpeg",
+ "rating": 4.7,
+ "clientCount": 312,
+ "yearsExperience": 14,
+ "expertise": [
+ "Agile Transformation",
+ "Scrum",
+ "SAFe",
+ "Change Management"
+ ],
+ "languages": ["English", "French"],
+ "credentials": [
+ "Certified SAFe Program Consultant",
+ "PMI Agile Certified Practitioner",
+ "Former Agile Coach at Fortune 500"
+ ],
+ "location": {
+ "type": "Remote",
+ "online": true,
+ "physical": null,
+ "address": null
+ },
+ "availability": {
+ "timeZone": "CST",
+ "weekdays": ["Monday", "Wednesday", "Friday"],
+ "timeSlots": ["09:00-10:00", "11:00-12:00", "14:00-15:00"]
+ },
+ "sessionTypes": [
+ {
+ "type": "Agile Coaching",
+ "duration": "60 min",
+ "price": 179.99,
+ "currency": "USD",
+ "description": "One-on-one coaching for agile practitioners and leaders"
+ },
+ {
+ "type": "Team Assessment",
+ "duration": "120 min",
+ "price": 329.99,
+ "currency": "USD",
+ "description": "Comprehensive team evaluation and improvement planning"
+ }
+ ],
+ "packages": [
+ {
+ "name": "Agile Transformation",
+ "duration": "6 months",
+ "sessionsPerMonth": 8,
+ "price": 2499.99,
+ "currency": "USD",
+ "description": "Complete agile transformation program",
+ "includes": [
+ "Weekly coaching sessions",
+ "Team workshops",
+ "Process assessment",
+ "Metrics tracking",
+ "Leadership alignment"
+ ]
+ }
+ ],
+ "testimonials": [
+ {
+ "client": "Sarah M.",
+ "role": "Delivery Manager",
+ "company": "AgileCore",
+ "text": "James helped our organization successfully transition to SAFe, improving delivery predictability by 40%.",
+ "rating": 4.8
+ }
+ ],
+ "tags": ["agile", "scrum", "transformation", "methodology"]
+ },
+ {
+ "id": "coach005",
+ "name": "Elena Petrova",
+ "title": "UX Design Leadership Coach",
+ "category": "Design",
+ "subCategory": "UX Leadership",
+ "description": "Elevating design teams and leaders to create exceptional experiences",
+ "detailedDescription": "Award-winning UX leader with experience building design teams at scale. Specializes in design operations and leadership development.",
+ "image": "assets/images/coach5.jpeg",
+ "rating": 4.9,
+ "clientCount": 145,
+ "yearsExperience": 13,
+ "expertise": [
+ "Design Leadership",
+ "UX Strategy",
+ "Design Operations",
+ "Team Building"
+ ],
+ "languages": ["English", "Russian"],
+ "credentials": [
+ "Master's in HCI, Carnegie Mellon",
+ "Former Design Director at DesignFirst",
+ "Google UX Design Certification"
+ ],
+ "location": {
+ "type": "Hybrid",
+ "online": true,
+ "physical": "NYC Office",
+ "address": "789 Design Ave, New York, NY"
+ },
+ "availability": {
+ "timeZone": "EST",
+ "weekdays": ["Tuesday", "Thursday", "Friday"],
+ "timeSlots": ["10:00-11:00", "12:00-13:00", "15:00-16:00"]
+ },
+ "sessionTypes": [
+ {
+ "type": "Design Leadership",
+ "duration": "60 min",
+ "price": 199.99,
+ "currency": "USD",
+ "description": "Strategic coaching for design leaders and managers"
+ },
+ {
+ "type": "Portfolio Review",
+ "duration": "90 min",
+ "price": 279.99,
+ "currency": "USD",
+ "description": "In-depth review of team portfolio and processes"
+ }
+ ],
+ "packages": [
+ {
+ "name": "Design Leadership Excellence",
+ "duration": "3 months",
+ "sessionsPerMonth": 4,
+ "price": 1699.99,
+ "currency": "USD",
+ "description": "Comprehensive program for design leaders",
+ "includes": [
+ "Monthly strategy sessions",
+ "Design review workshops",
+ "Team assessment",
+ "Process optimization",
+ "Leadership coaching"
+ ]
+ }
+ ],
+ "testimonials": [
+ {
+ "client": "Alex P.",
+ "role": "Head of Design",
+ "company": "CreativeTech",
+ "text": "Elena's guidance helped me scale our design team from 5 to 25 while maintaining quality and culture.",
+ "rating": 5
+ }
+ ],
+ "tags": ["design", "UX", "leadership", "creativity"]
+ }
+ ]
+ }
