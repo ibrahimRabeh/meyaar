@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742126274296",
+    "project_id": "meyaar",
+    "storage_bucket": "meyaar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742126274296:android:5dda18cc2a2a67bcba9d0d",
+        "android_client_info": {
+          "package_name": "com.example.meyar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAngbiJPbVUSHlyL2zPArNq5XRKzQS3Qp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:meyar/Colors.dart';
+import 'package:meyar/util/Colors.dart';
 
 class PortalScreen extends StatelessWidget {
   const PortalScreen({Key? key}) : super(key: key);
@@ -117,7 +117,7 @@ class PortalScreen extends StatelessWidget {
       onTap: () {
         Navigator.pushNamed(
           context,
-          isEmployee ? '/profile' : '/dashboard',
+          isEmployee ? '/Quiz' : '/dashboard',
         );
       },
       child: Container(
